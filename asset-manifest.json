@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/element43FrontendTest/static/css/main.129941c1.chunk.css",
+    "main.js": "/element43FrontendTest/static/js/main.2c5b9873.chunk.js",
+    "main.js.map": "/element43FrontendTest/static/js/main.2c5b9873.chunk.js.map",
+    "runtime-main.js": "/element43FrontendTest/static/js/runtime-main.947dd74d.js",
+    "runtime-main.js.map": "/element43FrontendTest/static/js/runtime-main.947dd74d.js.map",
+    "static/js/2.e5d08bb9.chunk.js": "/element43FrontendTest/static/js/2.e5d08bb9.chunk.js",
+    "static/js/2.e5d08bb9.chunk.js.map": "/element43FrontendTest/static/js/2.e5d08bb9.chunk.js.map",
+    "index.html": "/element43FrontendTest/index.html",
+    "precache-manifest.7c75743553917b694398bce7f80e0fd4.js": "/element43FrontendTest/precache-manifest.7c75743553917b694398bce7f80e0fd4.js",
+    "service-worker.js": "/element43FrontendTest/service-worker.js",
+    "static/css/main.129941c1.chunk.css.map": "/element43FrontendTest/static/css/main.129941c1.chunk.css.map"
+  }
+}
